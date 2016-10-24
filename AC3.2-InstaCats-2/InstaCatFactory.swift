@@ -32,6 +32,8 @@ class InstaCatFactory {
     }
     
     
+    
+    
     /// Gets the `URL` for a local file
     fileprivate func getResourceURL(from fileName: String) -> URL? {
         
